@@ -111,7 +111,7 @@ os.system('clear')
 print(purpleClaro + ROBOT + normal)
 def help():
    print(verde+'Modo de uso:')
-   print(verde+'$ python3 Foot3r.py [opções] [url]\n')
+   print(verde+'$ python3 Foot3rFing3r.py [opções] [url]\n')
    print(verde+'URL > http://www.osaka-u.ac.jp')
    print(verde+'URL > http://www.anatel.gov.br/institucional\n')
    print(vermelho+'URL >  https://www.tecmundo.com.br')
